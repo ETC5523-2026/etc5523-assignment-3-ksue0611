@@ -1,13 +1,20 @@
 ---
-title: "About"
-image: profile.jpg
+title: "About Me"
+image: profile_1.jpg
 about:
   template: jolla
   links:
     - icon: github
       text: Github
-      href: https://github.com/etc5523-2022
+      href: https://github.com/Ksue0611
+    - icon: envelope
+      text: Email
+      href: mailto:ksuu0011@student.monash.edu
 
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+Hi, I'm Kai-Hong Su, currently pursuing a Master of Business at Monash University, specialising in Data Analytics for Business.
+
+During my studies, I have gained foundational knowledge in machine learning, business forecasting, data visualisation, and economics. Before starting my master's degree, I completed my bachelor's degree in International Tourism Management.
+
+Outside of university, I enjoy playing sports, especially volleyball and badminton. I also like watching movies in my free time.
