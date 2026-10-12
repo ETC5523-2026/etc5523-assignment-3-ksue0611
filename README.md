@@ -6,6 +6,8 @@ This repository contains my ETC5523 Assignment 3 blog website.
 
 **Blog title:** Can Vaccination Alone Control COVID-19?
 
+**Blog Website:** https://etc5523-2026.github.io/etc5523-assignment-3-ksue0611/
+
 ## Intended Audience
 
 This blog post is intended for members of the general public who want to understand how vaccination and border quarantine measures affect the risk of COVID-19 outbreaks.
