@@ -1,4 +1,36 @@
-/* css styles */
-.navbar-dark, .quarto-title-banner {
-  background-color: #006DAE;
+/* Public Health Theme */
+
+/* Navigation bar */
+.navbar-dark {
+  background-color: #17324D;
+}
+
+/* Title banner */
+.quarto-title-banner {
+  background-color: #168A87;
+}
+
+/* Website background */
+body {
+  background-color: #F4F8F8;
+}
+
+/* Heading colours */
+h1, h2, h3 {
+  color: #17324D;
+}
+
+/* Main text */
+p {
+  color: #263746;
+}
+
+/* Links */
+a {
+  color: #168A87;
+}
+
+/* White title on banner */
+.quarto-title-banner h1 {
+  color: white;
 }
